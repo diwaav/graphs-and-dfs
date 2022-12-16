@@ -1,7 +1,4 @@
 # GRAPHS AND DEPTH FIRST SEARCH (DFS) [CSE 101]
-Diwa Ashwini Vittala    
-dashwini
-
 ## Assignment details
 The program FindComponents.c determines all the strongly connected components of a graph. The GraphTest.c file was 
 used to test the transpose of a graph.
